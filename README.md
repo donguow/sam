@@ -16,6 +16,19 @@ Default output format [json]:
 
 ### SAM Installation
 
+#### Instalation
+
 https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html
+
+#### Usage
+
+https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-command-reference.html
+
+```
+sam init
+sam deploy
+sam delete
+
+```
 
 ###
